@@ -40,7 +40,7 @@ function letVarExample(firstName = 'Nazariy') {
   // Melissas Address
   const address = {
     street: '9879 Test rd.',
-    city: 'Brooklyn',
+    city: 'dallan',
     state: 'NY',
   }
 
